@@ -35,9 +35,6 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CPP_EmpOOPS.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Employee.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -45,6 +42,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Designer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_OOPS.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

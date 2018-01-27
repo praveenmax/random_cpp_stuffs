@@ -22,8 +22,9 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{4AE17C85-E95F-442C-9C67-A98349F0323A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>CPPEmpOOPS</RootNamespace>
+    <RootNamespace>CPP_OOPS</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <ProjectName>CPP_OOPS</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -155,7 +156,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CPP_EmpOOPS.cpp" />
+    <ClCompile Include="CPP_OOPS.cpp" />
     <ClCompile Include="Designer.cpp" />
     <ClCompile Include="Employee.cpp" />
     <ClCompile Include="Programmer.cpp" />
