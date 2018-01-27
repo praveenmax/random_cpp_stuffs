@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_OOPS", "CPP_EmpOOPS.vcxproj", "{4AE17C85-E95F-442C-9C67-A98349F0323A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_OOPS", "CPP_OOPS.vcxproj", "{4AE17C85-E95F-442C-9C67-A98349F0323A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {78C00DB8-5A5C-4C41-A769-6AC70AFE6B72}
+		SolutionGuid = {5CBC0F4C-D987-40CE-A5C8-B03F868BCEF6}
 	EndGlobalSection
 EndGlobal
