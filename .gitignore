@@ -6,3 +6,10 @@ CPP_OOPS/Debug/
 CPP_SortingAlgorithms/CPP_SortingAlgorithms/.vs/
 CPP_SortingAlgorithms/CPP_SortingAlgorithms/Debug/
 CPP_SortingAlgorithms/CPP_SortingAlgorithms/CPP_SortingAlgorithms/Debug/
+*.ipch
+*.suo
+*.db
+CPP_ExceptionHandling/Debug/
+CPP_ExceptionHandling/CPP_ExceptionHandling/Debug/
+CPP_ExceptionHandling/.vs/
+
