@@ -4,4 +4,5 @@
 *.db
 **/.vs/
 **/Debug/
-
+build
+a.out
